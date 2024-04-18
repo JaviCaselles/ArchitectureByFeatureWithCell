@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/analytics" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/checkout" />
+            <option value="$PROJECT_DIR$/checkout/checkout-data" />
+            <option value="$PROJECT_DIR$/checkout/checkout-feature1" />
+            <option value="$PROJECT_DIR$/checkout/checkout-feature2" />
+            <option value="$PROJECT_DIR$/cliente" />
+            <option value="$PROJECT_DIR$/cliente/cliente-data" />
+            <option value="$PROJECT_DIR$/cliente/cliente-feature1" />
+            <option value="$PROJECT_DIR$/cliente/cliente-feature2" />
+            <option value="$PROJECT_DIR$/common" />
+            <option value="$PROJECT_DIR$/content" />
+            <option value="$PROJECT_DIR$/content/content-data" />
+            <option value="$PROJECT_DIR$/content/content-feature1" />
+            <option value="$PROJECT_DIR$/content/content-feature2" />
+            <option value="$PROJECT_DIR$/grids" />
+            <option value="$PROJECT_DIR$/grids/grids-data" />
+            <option value="$PROJECT_DIR$/grids/grids-feature1" />
+            <option value="$PROJECT_DIR$/grids/grids-feature2" />
+            <option value="$PROJECT_DIR$/pdp" />
+            <option value="$PROJECT_DIR$/pdp/pdp-data" />
+            <option value="$PROJECT_DIR$/pdp/pdp-feature1" />
+            <option value="$PROJECT_DIR$/pdp/pdp-feature2" />
+          </set>
+        </option>
+        <option name="resolveExternalAnnotations" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
